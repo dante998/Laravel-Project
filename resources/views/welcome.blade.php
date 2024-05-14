@@ -4,7 +4,4 @@
         Home
     </x-slot>  
 
-  
-
- 
 </x-app-web-layout>    
