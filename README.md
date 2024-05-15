@@ -3,8 +3,16 @@
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Laravel 10
+* Login and registration with Laravel Breeze Auth Scaffolding
+* Blade Templating using Component
+* File / Image Upload
+* CRUD Operation
+* Custom error pages
+* Middleware
+* Spatie Roles and Permissions
 
 ## Learning Laravel
 
