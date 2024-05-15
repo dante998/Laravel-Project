@@ -10,6 +10,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 * Blade Templating using Component
 * File / Image Upload
 * CRUD Operation
+* Contact Form
 * Custom error pages
 * Middleware
 * Spatie Roles and Permissions
